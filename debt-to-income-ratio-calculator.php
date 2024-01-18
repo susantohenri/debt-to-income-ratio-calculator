@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name:       Interest Only Calculator
+ * Plugin Name:       Debt-to-Income (DTI) Calculator
  * Description:       
  * Version:           1.0.0
  * Requires at least: 5.2
@@ -11,7 +11,6 @@
  */
 
 
-// Add a shortcode for the Interest Only Calculator
 function interest_only_calculator()
 {
     ob_start();
